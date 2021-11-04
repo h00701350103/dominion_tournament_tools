@@ -1,0 +1,468 @@
+Cellar
+Chapel
+Moat
+Harbinger
+Merchant
+Vassal
+Village
+Workshop
+Bureaucrat
+Gardens
+Militia
+Moneylender
+Poacher
+Remodel
+Smithy
+Throne Room
+Bandit
+Council Room
+Festival
+Laboratory
+Library
+Market
+Mine
+Sentry
+Witch
+Artisan
+Courtyard
+Lurker
+Pawn
+Masquerade
+Shanty Town
+Steward
+Swindler
+Wishing Well
+Baron
+Bridge
+Conspirator
+Diplomat
+Ironworks
+Mill
+Mining Village
+Secret Passage
+Courtier
+Duke
+Minion
+Patrol
+Replace
+Torturer
+Trading Post
+Upgrade
+Harem
+Nobles
+Embargo, special
+Haven
+Lighthouse
+Native Village, special
+Pearl Diver
+Ambassador
+Fishing Village
+Lookout
+Smugglers
+Warehouse
+Caravan
+Cutpurse
+Island, special
+Navigator
+Pirate Ship, special
+Salvager
+Sea Hag
+Treasure Map
+Bazaar
+Explorer
+Ghost Ship
+Merchant Ship
+Outpost
+Tactician
+Treasury
+Wharf
+Transmute
+Vineyard, potion
+Herbalist
+Apothecary
+Scrying Pool, potion
+University, potion
+Alchemist, potion
+Familiar, potion
+Philosopher's Stone, potion
+Golem, potion
+Apprentice
+Loan, platinum
+Trade Route, special, platinum
+Watchtower, platinum
+Bishop, platinum
+Monument, platinum
+Quarry, platinum
+Talisman, platinum
+Worker's Village, platinum
+City, platinum
+Contraband, platinum
+Counting House, platinum
+Mint, platinum
+Mountebank, platinum
+Rabble, platinum
+Royal Seal, platinum
+Vault, platinum
+Venture, platinum
+Goons, platinum
+Grand Market, platinum
+Hoard, platinum
+Bank, platinum
+Expand, platinum
+Forge, platinum
+King's Court, platinum
+Peddler, platinum
+Hamlet
+Fortune Teller
+Menagerie
+Farming Village
+Horse Traders
+Remake
+Tournament
+Young Witch
+Harvest
+Horn of Plenty
+Hunting Party
+Jester
+Fairgrounds
+Crossroads
+Duchess
+Fool's Gold
+Develop
+Oasis
+Oracle
+Scheme
+Tunnel
+Jack of All Trades
+Noble Brigand
+Nomad Camp
+Silk Road
+Spice Merchant
+Trader
+Cache
+Cartographer
+Embassy
+Haggler
+Highway
+Ill-Gotten Gains
+Inn
+Mandarin
+Margrave
+Stables
+Border Village
+Farmland
+Poor House, shelters
+Beggar, shelters
+Squire, shelters
+Vagrant, shelters
+Forager, shelters
+Hermit, special, shelters
+Market Square, shelters
+Sage, shelters
+Storeroom, shelters
+Urchin, special, shelters
+Armory, shelters
+Death Cart, ruins, shelters
+Feodum, shelters
+Fortress, shelters
+Ironmonger, shelters
+Marauder, spoils, shelters
+Procession, shelters
+Rats, shelters
+Scavenger, shelters
+Wandering Minstrel, shelters
+Band of Misfits, shelters
+Bandit Camp, spoils, shelters
+Catacombs, shelters
+Count, shelters
+Counterfeit, shelters
+Cultist, shelters
+Graverobber, shelters
+Junk Dealer, shelters
+Knights, shelters
+Mystic, shelters
+Pillage, spoils, shelters
+Rebuild, shelters
+Rogue, shelters
+Altar, shelters
+Hunting Grounds, shelters
+Candlestick Maker
+Stonemason
+Doctor
+Masterpiece
+Advisor
+Herald
+Plaza
+Taxman
+Baker, coffers
+Butcher, coffers
+Journeyman
+Merchant Guild, coffers
+Soothsayer
+Coin of the Realm
+Page, special
+Peasant, special
+Ratcatcher
+Raze
+Amulet
+Caravan Guard
+Dungeon
+Gear
+Guide
+Duplicate
+Magpie
+Messenger
+Miser
+Port
+Ranger
+Transmogrify
+Artificer
+Bridge Troll
+Distant Lands
+Giant
+Haunted Woods
+Lost City
+Relic
+Royal Carriage
+Storyteller
+Swamp Hag
+Treasure Trove
+Wine Merchant
+Hireling
+Alms, landscape
+Borrow, landscape
+Quest, landscape
+Save, landscape
+Scouting Party, landscape
+Travelling Fair, landscape
+Bonfire, landscape
+Expedition, landscape
+Ferry, landscape
+Plan, landscape
+Mission, landscape
+Pilgrimage, landscape
+Ball, landscape
+Raid, landscape
+Seaway, landscape
+Trade, landscape
+Lost Arts, landscape
+Training, landscape
+Inheritance, landscape
+Pathfinding, landscape
+Engineer
+City Quarter
+Royal Blacksmith
+Overlord
+Encampment
+Patrician
+Settlers
+Catapult
+Chariot Race
+Enchantress
+Farmers' Market
+Gladiator
+Rocks
+Sacrifice
+Temple
+Villa
+Archive
+Capital
+Charm
+Crown
+Emporium
+Forum
+Groundskeeper
+Legionary
+Wild Hunt
+Castles
+Triumph, landscape
+Annex, landscape
+Donate, landscape
+Advance, landscape
+Delve, landscape
+Tax, landscape
+Banquet, landscape
+Ritual, landscape
+Salt the Earth, landscape
+Wedding, landscape
+Windfall, landscape
+Conquest, landscape
+Dominate, landscape
+Aqueduct, landscape
+Arena, landscape
+Bandit Fort, landscape
+Basilica, landscape
+Battlefield, landscape
+Baths, landscape
+Colonnade, landscape
+Defiled Shrine, landscape
+Fountain, landscape
+Keep, landscape
+Labyrinth, landscape
+Mountain Pass, landscape
+Museum, landscape
+Obelisk, landscape
+Orchard, landscape
+Palace, landscape
+Tomb, landscape
+Tower, landscape
+Triumphal Arch, landscape
+Wall, landscape
+Wolf Den, landscape
+Druid, boon, wisp
+Faithful Hound
+Guardian
+Monastery
+Pixie, boon, heirloom, wisp
+Tracker, boon, heirloom, wisp
+Changeling
+Fool, boon, heirloom, wisp
+Ghost Town
+Leprechaun, hex, wish
+Night Watchman
+Secret Cave, wish, heirloom
+Bard, boon, wisp
+Blessed Village, boon, wisp
+Cemetery, ghost, heirloom
+Conclave
+Devil's Workshop, imp
+Exorcist, wisp, ghost, imp
+Necromancer
+Shepherd, heirloom
+Skulk, hex
+Cobbler
+Crypt
+Cursed Village, hex
+Den of Sin
+Idol, boon, wisp
+Pooka, heirloom
+Sacred Grove, boon, wisp
+Tormentor, hex, imp
+Tragic Hero
+Vampire, hex
+Werewolf, hex
+Raider
+Border Guard
+Ducat
+Lackeys
+Acting Troupe
+Cargo Ship
+Experiment
+Improve
+Flag Bearer
+Hideout
+Inventor
+Mountain Village
+Patron
+Priest
+Research
+Silk Merchant
+Old Witch
+Recruiter
+Scepter
+Scholar
+Sculptor
+Seer
+Spices
+Swashbuckler
+Treasurer
+Villain
+Cathedral, landscape
+City Gate, landscape
+Pageant, landscape
+Sewers, landscape
+Star Chart, landscape
+Exploration, landscape
+Fair, landscape
+Silos, landscape
+Sinister Plot, landscape
+Academy, landscape
+Capitalism, landscape
+Fleet, landscape
+Guildhall, landscape
+Piazza, landscape
+Road Network, landscape
+Barracks, landscape
+Crop Rotation, landscape
+Innovation, landscape
+Canal, landscape
+Citadel, landscape
+Black Cat
+Sleigh, horse
+Supplies, horse
+Camel Train
+Goatherd
+Scrap, horse
+Sheepdog
+Snowy Village
+Stockpile
+Bounty Hunter
+Cardinal
+Cavalry, horse
+Groom, horse
+Hostelry, horse
+Village Green
+Fisherman
+Hunting Lodge
+Barge
+Coven
+Displace
+Falconer
+Gatekeeper
+Kiln
+Livery, horse
+Mastermind
+Paddock, horse
+Sanctuary
+Destrier
+Wayfarer
+Animal Fair
+Delay, landscape
+Desperation, landscape
+Gamble, landscape
+Pursue, landscape
+Ride, horse, landscape
+Toil, landscape
+Enhance, landscape
+March, landscape
+Transport, landscape
+Banish, landscape
+Bargain, horse, landscape
+Invest, landscape
+Seize the Day, landscape
+Commerce, landscape
+Demand, horse, landscape
+Stampede, horse, landscape
+Reap, landscape
+Enclave, landscape
+Alliance, landscape
+Populate, landscape
+Way of the Butterfly, landscape, way
+Way of the Camel, landscape, way
+Way of the Chameleon, landscape, way
+Way of the Frog, landscape, way
+Way of the Goat, landscape, way
+Way of the Horse, landscape, way
+Way of the Mole, landscape, way
+Way of the Monkey, landscape, way
+Way of the Mouse, landscape, way
+Way of the Mule, landscape, way
+Way of the Otter, landscape, way
+Way of the Ox, landscape, way
+Way of the Owl, landscape, way
+Way of the Pig, landscape, way
+Way of the Rat, landscape, way
+Way of the Seal, landscape, way
+Way of the Sheep, landscape, way
+Way of the Squirrel, landscape, way
+Way of the Turtle, landscape, way
+Way of the Worm, landscape, way
+Dismantle
+Envoy
+Sauna
+Walled Village
+Avanto
+Governor
+Stash
+Summon, landscape
+Prince
