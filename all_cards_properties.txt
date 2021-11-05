@@ -50,10 +50,10 @@ Trading Post
 Upgrade
 Harem
 Nobles
-Embargo, special
+Embargo, embargo
 Haven
 Lighthouse
-Native Village, special
+Native Village, native village
 Pearl Diver
 Ambassador
 Fishing Village
@@ -62,9 +62,9 @@ Smugglers
 Warehouse
 Caravan
 Cutpurse
-Island, special
+Island, island
 Navigator
-Pirate Ship, special
+Pirate Ship, pirate ship
 Salvager
 Sea Hag
 Treasure Map
@@ -88,10 +88,10 @@ Philosopher's Stone, potion
 Golem, potion
 Apprentice
 Loan, platinum
-Trade Route, special, platinum
+Trade Route, trade route, platinum
 Watchtower, platinum
-Bishop, platinum
-Monument, platinum
+Bishop, platinum, vp
+Monument, platinum, vp
 Quarry, platinum
 Talisman, platinum
 Worker's Village, platinum
@@ -104,7 +104,7 @@ Rabble, platinum
 Royal Seal, platinum
 Vault, platinum
 Venture, platinum
-Goons, platinum
+Goons, platinum, vp
 Grand Market, platinum
 Hoard, platinum
 Bank, platinum
@@ -156,11 +156,11 @@ Beggar, shelters
 Squire, shelters
 Vagrant, shelters
 Forager, shelters
-Hermit, special, shelters
+Hermit, Madman, shelters
 Market Square, shelters
 Sage, shelters
 Storeroom, shelters
-Urchin, special, shelters
+Urchin, Mercenary, shelters
 Armory, shelters
 Death Cart, ruins, shelters
 Feodum, shelters
@@ -186,13 +186,13 @@ Rebuild, shelters
 Rogue, shelters
 Altar, shelters
 Hunting Grounds, shelters
-Candlestick Maker
+Candlestick Maker, coffers
 Stonemason
 Doctor
 Masterpiece
 Advisor
 Herald
-Plaza
+Plaza, coffers
 Taxman
 Baker, coffers
 Butcher, coffers
@@ -200,8 +200,8 @@ Journeyman
 Merchant Guild, coffers
 Soothsayer
 Coin of the Realm
-Page, special
-Peasant, special
+Page, travellers
+Peasant, travellers
 Ratcatcher
 Raze
 Amulet
@@ -214,15 +214,15 @@ Magpie
 Messenger
 Miser
 Port
-Ranger
+Ranger, journey
 Transmogrify
 Artificer
-Bridge Troll
+Bridge Troll, -1 coin
 Distant Lands
-Giant
+Giant, journey
 Haunted Woods
 Lost City
-Relic
+Relic, -1 card
 Royal Carriage
 Storyteller
 Swamp Hag
@@ -230,81 +230,81 @@ Treasure Trove
 Wine Merchant
 Hireling
 Alms, landscape
-Borrow, landscape
+Borrow, landscape, -1 card
 Quest, landscape
 Save, landscape
 Scouting Party, landscape
 Travelling Fair, landscape
 Bonfire, landscape
 Expedition, landscape
-Ferry, landscape
+Ferry, landscape, -2 cost
 Plan, landscape
 Mission, landscape
-Pilgrimage, landscape
-Ball, landscape
-Raid, landscape
+Pilgrimage, landscape, journey
+Ball, landscape, -1 coin
+Raid, landscape, -1 card
 Seaway, landscape
 Trade, landscape
 Lost Arts, landscape
 Training, landscape
 Inheritance, landscape
 Pathfinding, landscape
-Engineer
-City Quarter
-Royal Blacksmith
-Overlord
-Encampment
-Patrician
-Settlers
-Catapult
-Chariot Race
+Engineer, debt
+City Quarter, debt
+Royal Blacksmith, debt
+Overlord, debt
+Encampment, vp, Plunder
+Patrician, Emporium
+Settlers, Bustling Village
+Catapult, Rocks
+Chariot Race, vp
 Enchantress
-Farmers' Market
-Gladiator
+Farmers' Market, vp
+Gladiator, debt, Fortune
 Rocks
-Sacrifice
-Temple
+Sacrifice, vp
+Temple, vp
 Villa
 Archive
-Capital
+Capital, debt
 Charm
 Crown
 Emporium
 Forum
-Groundskeeper
+Groundskeeper, vp
 Legionary
-Wild Hunt
-Castles
-Triumph, landscape
-Annex, landscape
-Donate, landscape
+Wild Hunt, vp
+Castles, vp
+Triumph, landscape, vp, debt
+Annex, landscape, debt
+Donate, landscape, debt
 Advance, landscape
 Delve, landscape
-Tax, landscape
+Tax, landscape, debt
 Banquet, landscape
-Ritual, landscape
-Salt the Earth, landscape
-Wedding, landscape
+Ritual, landscape, vp
+Salt the Earth, landscape, vp
+Wedding, landscape, vp, debt
 Windfall, landscape
-Conquest, landscape
-Dominate, landscape
-Aqueduct, landscape
-Arena, landscape
+Conquest, landscape, vp
+Dominate, landscape, vp
+Aqueduct, landscape, vp
+Arena, landscape, vp
 Bandit Fort, landscape
-Basilica, landscape
-Battlefield, landscape
-Baths, landscape
-Colonnade, landscape
-Defiled Shrine, landscape
+Basilica, landscape, vp
+Battlefield, landscape, vp
+Baths, landscape, vp
+Colonnade, landscape, vp
+Defiled Shrine, landscape, vp
 Fountain, landscape
 Keep, landscape
-Labyrinth, landscape
-Mountain Pass, landscape
+Labyrinth, landscape, vp
+Mountain Pass, landscape, vp, debt
 Museum, landscape
 Obelisk, landscape
 Orchard, landscape
 Palace, landscape
-Tomb, landscape
+Tomb, landscape, vp
 Tower, landscape
 Triumphal Arch, landscape
 Wall, landscape
@@ -343,9 +343,9 @@ Vampire, hex
 Werewolf, hex
 Raider
 Border Guard
-Ducat
-Lackeys
-Acting Troupe
+Ducat, coffers
+Lackeys, villagers
+Acting Troupe, villagers
 Cargo Ship
 Experiment
 Improve
@@ -353,33 +353,33 @@ Flag Bearer
 Hideout
 Inventor
 Mountain Village
-Patron
+Patron, coffers, villagers
 Priest
 Research
-Silk Merchant
+Silk Merchant, coffers, villagers
 Old Witch
-Recruiter
+Recruiter, villagers
 Scepter
 Scholar
-Sculptor
+Sculptor, villagers
 Seer
-Spices
-Swashbuckler
+Spices, coffers
+Swashbuckler, coffers
 Treasurer
-Villain
+Villain, coffers
 Cathedral, landscape
 City Gate, landscape
-Pageant, landscape
+Pageant, landscape, coffers
 Sewers, landscape
 Star Chart, landscape
-Exploration, landscape
+Exploration, landscape, coffers, villagers
 Fair, landscape
 Silos, landscape
 Sinister Plot, landscape
-Academy, landscape
+Academy, landscape, villagers
 Capitalism, landscape
 Fleet, landscape
-Guildhall, landscape
+Guildhall, landscape, coffers
 Piazza, landscape
 Road Network, landscape
 Barracks, landscape
@@ -390,14 +390,14 @@ Citadel, landscape
 Black Cat
 Sleigh, horse
 Supplies, horse
-Camel Train
+Camel Train, exile
 Goatherd
 Scrap, horse
 Sheepdog
 Snowy Village
-Stockpile
-Bounty Hunter
-Cardinal
+Stockpile, exile
+Bounty Hunter, exile
+Cardinal, exile
 Cavalry, horse
 Groom, horse
 Hostelry, horse
@@ -405,15 +405,15 @@ Village Green
 Fisherman
 Hunting Lodge
 Barge
-Coven
-Displace
+Coven, exile
+Displace, exile
 Falconer
-Gatekeeper
+Gatekeeper, exile
 Kiln
 Livery, horse
 Mastermind
 Paddock, horse
-Sanctuary
+Sanctuary, exile
 Destrier
 Wayfarer
 Animal Fair
@@ -425,20 +425,20 @@ Ride, horse, landscape
 Toil, landscape
 Enhance, landscape
 March, landscape
-Transport, landscape
-Banish, landscape
+Transport, landscape, exile
+Banish, landscape, exile
 Bargain, horse, landscape
-Invest, landscape
+Invest, landscape, exile
 Seize the Day, landscape
 Commerce, landscape
 Demand, horse, landscape
 Stampede, horse, landscape
 Reap, landscape
-Enclave, landscape
+Enclave, landscape, exile
 Alliance, landscape
 Populate, landscape
 Way of the Butterfly, landscape, way
-Way of the Camel, landscape, way
+Way of the Camel, landscape, way, exile
 Way of the Chameleon, landscape, way
 Way of the Frog, landscape, way
 Way of the Goat, landscape, way
@@ -456,10 +456,10 @@ Way of the Seal, landscape, way
 Way of the Sheep, landscape, way
 Way of the Squirrel, landscape, way
 Way of the Turtle, landscape, way
-Way of the Worm, landscape, way
+Way of the Worm, landscape, way, exile
 Dismantle
 Envoy
-Sauna
+Sauna, Avanto
 Walled Village
 Avanto
 Governor

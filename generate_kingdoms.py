@@ -49,8 +49,8 @@ def main():
     with open('kingdoms.txt', 'w', encoding='utf8') as file:
         for k_set,i in zip(res,range(len(res))):
             file.write(f'###Set {i}###\n')
-            for kingdom in k_set:
-                file.write(f'{kingdom}\n')
+            for kingdom, ii in zip(k_set, range(len(k_set))):
+                file.write(f'{ii}: {kingdom}\n')
 
         file.write(f'###remaining kingdoms###')
         for kingdom in kingdoms:
